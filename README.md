@@ -1,4 +1,4 @@
-Software developer, currently employed in firmware development.
+Software developer, previously employed in firmware development.
 
 <!---
 GammaSigma1234/GammaSigma1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
