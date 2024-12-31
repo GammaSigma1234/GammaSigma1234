@@ -1,4 +1,4 @@
-Software and firmware developer.
+Desktop and embedded software developer.
 
 Public repositories at https://github.com/The-Developing-Developers.
 
